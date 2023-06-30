@@ -2,7 +2,8 @@
 - 👀 I’m interested in ```Programming , cyber-security, Space tech```.
 - 🌱 I’m currently learning  about ```python and aerospace technology...```
 - 💞️ I’m looking to collaborate on Python projects , web development, flight computer programming and much more .
-- You can contact me at [Discord](1045883923189739600)
+- You can contact me at [Twitter](https://twitter.com/DakshGo86373180)
+- ![alt text]()
 
 <!---
 Daksh-Goswami/Daksh-Goswami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
